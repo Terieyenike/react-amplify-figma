@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nocode-staging-202440-authRole",
+      "UnauthRoleArn": "arn:aws:iam::045197891922:role/amplify-nocode-staging-202440-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::045197891922:role/amplify-nocode-staging-202440-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-nocode-staging-202440-deployment",
+      "UnauthRoleName": "amplify-nocode-staging-202440-unauthRole",
+      "StackName": "amplify-nocode-staging-202440",
+      "StackId": "arn:aws:cloudformation:eu-west-2:045197891922:stack/amplify-nocode-staging-202440/ec74c500-378f-11ed-b633-064d723f1284",
+      "AmplifyAppId": "du4ysxh3yvdc0"
+    }
+  }
+}
